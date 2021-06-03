@@ -2,6 +2,5 @@ PATCH http://localhost:3000/users/1
 Content-Type: application/json
 
 {
-  "email": "profpaulo.salvatore@gmail.com",
   "name": "Paulo Salvatore - Editado"
 }
