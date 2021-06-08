@@ -2,7 +2,7 @@
 
 # NestJS: Gerando uma arquitetura de CRUD
 
-Para quem desenvolve ou quer desenvolver backend em NodeJS, a primeira opção que aparece geralmente é o Express, certo?
+Para quem desenvolve ou quer desenvolver backend em NodeJS, a primeira opção que geralmente aparece é o Express, certo?
 
 O NestJS é um framework de backend para NodeJS que trabalha em cima de micro-frameworks como o Express/Fastify, podendo inclusive ter qualquer outro framework integrado. Além de aplicações REST, ele também funciona muito bem com websockets, microserviços, graphql etc.
 
